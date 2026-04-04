@@ -1,4 +1,5 @@
-# mini-project
+# mini-project 
+# SixSeven67 
 
 🌍 26E2096 - SixSeven67
 Second Year | Research Project
