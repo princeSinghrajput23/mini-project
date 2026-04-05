@@ -11,7 +11,7 @@ Evaluation of a Generative AI System for Localized Climate Awareness and Behavio
 
 ✅ Approved
 
-📖 Overview
+📖 Overview:
 
 Climate change communication often relies on generic, non-localized content that fails to address regional differences, cultural contexts, and language diversity. This project explores how Generative Artificial Intelligence (GenAI) can be leveraged to create personalized, region-specific climate awareness content that is easier to understand and more effective in encouraging behavioral change.
 
